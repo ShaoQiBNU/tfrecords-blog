@@ -29,11 +29,15 @@ https://blog.csdn.net/luoyexuge/article/details/83034232
 
 - 普通tfrecords数据读写
 
+tfrecord-util.zip解压后，参考：src/test/TFRecordWriteReaderTest.java
 
 - 标准tfrecords数据读写
 
+tfrecord-util.zip解压后，参考：src/test/TFRecordWriteReaderTest.java
 
 3. 工业界基于flink批模式读取tfrecords数据
+
+tfrecord-util.zip解压后，参考：src/test/TFRecordWriteReaderHdfsTest.java
 
 
 
