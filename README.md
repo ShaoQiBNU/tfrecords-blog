@@ -35,7 +35,7 @@ tfrecord-util.zip解压后，参考：src/test/TFRecordWriteReaderTest.java
 
 tfrecord-util.zip解压后，参考：src/test/TFRecordWriteReaderTest.java
 
-3. 工业界基于flink批模式读取tfrecords数据
+3. 工业界基于flink批模式读取tf数据，并转成标准格式的tf数据
 
 tfrecord-util.zip解压后，参考：src/test/TFRecordWriteReaderHdfsTest.java
 
